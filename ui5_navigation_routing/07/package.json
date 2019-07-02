@@ -1,0 +1,10 @@
+{
+  "name": "NavigationTutorial",
+  "private": true,
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "UI5 Demo App - Navigation Tutorial",
+  "scripts":  {
+    "serve" : "ui5 serve --open /index.html"
+  }
+}
